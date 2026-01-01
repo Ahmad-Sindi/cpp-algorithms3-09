@@ -23,7 +23,6 @@ The program prints the full matrix first, then highlights its central horizontal
 The middle index is calculated using integer division:
 
 - Middle Row = Rows / 2
-- 
 - Middle Column = Columns / 2
 
 
